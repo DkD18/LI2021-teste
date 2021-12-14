@@ -1,0 +1,73 @@
+    1  git clone https://github.com/DkD18/LI2021-teste.git
+    2  cd LI2021-teste
+    3  git status 
+    4  mkdir 110279
+    5  cd 110279
+    6  touch README.md
+    7  vi README.md
+    8  cat README.md
+    9  git add . 
+   10  git commit -m "2ª Tarefa"
+   11  git config --global user.email diogofilipe18@ua.pt
+   12  git commit -m "2ª Tarefa"
+   13  git status 
+   14  git push origin main 
+   15  git status 
+   16  cd .. 
+   17  touch index.html 
+   18  vi index.html
+   19  index.html
+   20  vi index.html 
+   21  vi index.html
+   22  git add index.html 
+   23  git commit -m "3ª Tarefa" 
+   24  git push origin main 
+   25  vi index.html 
+   26  git add index.html 
+   27  git commit -m "4ª Tarefa"
+   28  git push origin main 
+   29  git status 
+   30  cp index.html LI2021-teste
+   31  ls
+   32  clone index.html
+   33  copy /LI2021-teste/index.html /LI2021-teste
+   34  cp /LI2021-teste/index.html /LI2021-teste
+   35  cp index.html LI2021-teste
+   36  ls
+   37  copy 
+   38  cp
+   39  cp index.html 
+   40  ls
+   41  cp index.html -T
+   42  LS
+   43  ls
+   44  cd ..
+   45  ls
+   46  cp LI2021-teste/index.html .
+   47  ls
+   48  cd 2021-teste
+   49  cd LI2021-teste
+   50  cp LI2021-teste/index.html .
+   51  mv LI2021-teste/index.html .
+   52  cd..
+   53  cd ..
+   54  ls
+   55  mv index.html LI2021-teste/
+   56  ls
+   57  cd LI2021-teste
+   58  ls
+   59  cd LI2021-teste
+   60  vi LI2021-teste
+   61  vi index.html 
+   62  ls
+   63  mv LI2021-teste disciplina.html
+   64  ls
+   65  vi disciplina.html
+   66  vi disciplina.html
+   67  ls 
+   68  git add disciplina.html
+   69  git commit -m "5ª Tarefa"
+   70  git push origin main 
+   71  LS
+   72  ls
+   73  history > meusComandos.txt
